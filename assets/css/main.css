@@ -40,8 +40,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Header Layout */
 .header {
-  padding-top: 0;
-  padding-left: 0;
+  padding-top: auto;
+  padding-left: auto;
+  background-image: url(../images/post-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
 }
 
 .logo {
