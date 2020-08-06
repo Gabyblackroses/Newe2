@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* Base Styles*/
 body {
+  font-family: "Roboto", "Playfair Display";
   height: 100vh;
   background-color: transparent;
   background-repeat: no-repeat;
@@ -31,15 +32,12 @@ h1, h2, h3, h4, h5, h6 {
 /* Buttons */
 .button {
   padding: 0.7rem 2rem;
-  border-radius: 3px;
+  border-radius: 15px;
   font-family: "Roboto", sans-serif;
   font-family: "Playfair Display", serif;
   font-size: 12px;
   font-size: 16px;
   color: #6C6E70;
-}
-.button a:hover {
-  color: #E56353;
 }
 
 /* Header Layout */
@@ -55,6 +53,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo {
   width: 120px;
+}
+
+.lale {
+  font-family: "playfair-display", cursive;
+  font-size: 30px;
+  line-height: "normal";
 }
 
 .main {
@@ -90,9 +94,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .imgRedonda {
-  width: 300px;
-  height: 300px;
-  border-radius: 150px;
+  width: 220px;
+  height: 220px;
+  border-radius: 200px;
+}
+
+.naomi-thai {
+  font-family: "playfair-display", cursive;
+  font-size: 30px;
+  line-height: 80%;
 }
 
 /*!

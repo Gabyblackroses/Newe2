@@ -1,13 +1,10 @@
 /* Buttons */
 .button {
     padding: .7rem 2rem;
-    border-radius: 3px;
+    border-radius: 15px;
     font-family: $roboto; 
     font-family: $playfair;
     font-size: $small; 
     font-size: $medium;
     color: $nickel;
-    a:hover {
-        color: #E56353;
-        }
     }
