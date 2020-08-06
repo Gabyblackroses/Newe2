@@ -8,6 +8,10 @@ body {
   background-position: 100%;
 }
 
+.salmon:hover {
+  color: #E56353;
+}
+
 /* Reset*/
 body {
   margin: 0;
@@ -48,9 +52,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
 }
-.salmon:hover { 
-  color: #E56353;
-}
 
 .logo {
   width: 120px;
@@ -86,6 +87,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .main__button {
   margin: -20px;
+}
+
+.imgRedonda {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
 }
 
 /*!

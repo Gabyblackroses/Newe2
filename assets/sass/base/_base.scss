@@ -6,6 +6,11 @@ body {
     background-size: cover;
     background-position: 100%;
 }
+.salmon {
+	&:hover {
+		color: #E56353;
+	}
+}
 
 
     
