@@ -8,8 +8,9 @@ body {
     background-position: 100%;
 }
 .salmon {
+    color: $fuzzy-wuzzy;
 	&:hover {
-		color: #E56353;
+		color: $platinum;
 	}
 }
 
